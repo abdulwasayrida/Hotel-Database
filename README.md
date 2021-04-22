@@ -4,12 +4,12 @@ A Hotel Database designed to mimic a real-life database that stores basic inform
 
 The database has the following fields: 
 
-Room Number (String) – unique key
-Guest Name (String) – secondary key
-Type of Room (String)
-Stay Duration (Int)
-Number of People Staying (Int)
-Price (Int)
+-Room Number (String) – unique key
+-Guest Name (String) – secondary key
+-Type of Room (String)
+-Stay Duration (Int)
+-Number of People Staying (Int)
+-Price (Int)
 
 The following are included in the project:
 A Screen output class
