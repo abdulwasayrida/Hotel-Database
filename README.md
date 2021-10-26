@@ -9,7 +9,7 @@ Stay Duration (Int)
 Number of People Staying (Int)
 Price (Int)
 
-# _The following are included in the project:
+# _The following are included in the project:_
 * 1 Screen output class
 * 2 BSTs, one that takes in data with room Number and a second that takes in data with occupants.
 * 1 Hash Table that stores hotel data from file
