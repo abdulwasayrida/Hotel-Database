@@ -1,4 +1,4 @@
-## Hotel-Database
+### **Hotel-Database** 
 A Hotel Database designed to mimic a real-life database that stores basic information about guests and their reservations. 
 
 #The database has the following fields: 
